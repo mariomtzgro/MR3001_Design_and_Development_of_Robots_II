@@ -37,6 +37,9 @@
     *	Group 1: Mon-Thu 12-3 PM (Central Mexico Time)
 * Start Date: Monday, 23 March 2026
 
+## Recordings
+[G402](https://tecmx-my.sharepoint.com/:f:/g/personal/mario_mtz_tec_mx/IgD9UDC8pUfzSJD-81O99JXWAT6h6V3NXpUA7vySvTWgrGw?e=uCN2aF)
+[G406](https://tecmx-my.sharepoint.com/:f:/g/personal/mario_mtz_tec_mx/IgDMEPhK5GVfSYMSLrjQKgDxASXyALWojHsz63cViHEr3pY?e=yzGWVe)
 
 ## General Requirements
 General requirements. Please be aware that a set of requirements specific to each session will be shown in each session subsection (Some items may be repeated).
