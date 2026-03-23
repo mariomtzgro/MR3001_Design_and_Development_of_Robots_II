@@ -39,6 +39,7 @@
 
 ## Recordings
 [G402](https://tecmx-my.sharepoint.com/:f:/g/personal/mario_mtz_tec_mx/IgD9UDC8pUfzSJD-81O99JXWAT6h6V3NXpUA7vySvTWgrGw?e=uCN2aF)
+
 [G406](https://tecmx-my.sharepoint.com/:f:/g/personal/mario_mtz_tec_mx/IgDMEPhK5GVfSYMSLrjQKgDxASXyALWojHsz63cViHEr3pY?e=yzGWVe)
 
 ## General Requirements
