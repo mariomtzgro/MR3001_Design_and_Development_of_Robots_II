@@ -1,12 +1,12 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ManchesterRoboticsLtd/MR3001_Design_and_Development_of_Robots_II/blob/main/Misc/Logos/Logotipo%20Vertical%20Bco_Transparente.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ManchesterRoboticsLtd/MR3001_Design_and_Development_of_Robots_II/blob/main/Misc/Logos/Logotipo%20Vertical%20Azul%20transparente.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mariomtzgro/MR3001_Design_and_Development_of_Robots_II/blob/main/Misc/Logos/Logotipo%20Vertical%20Bco_Transparente.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mariomtzgro/MR3001_Design_and_Development_of_Robots_II/blob/main/Misc/Logos/Logotipo%20Vertical%20Azul%20transparente.png">
   <img alt="Shows ITESM logo in black or white." width="160" align="right">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ManchesterRoboticsLtd/MR3001_Design_and_Development_of_Robots_II/blob/main/Misc/Logos/MCR2_Logo_White.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ManchesterRoboticsLtd/MR3001_Design_and_Development_of_Robots_II/blob/main/Misc/Logos/MCR2_Logo_Black.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mariomtzgro/MR3001_Design_and_Development_of_Robots_II/blob/main/Misc/Logos/MCR2_Logo_White.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mariomtzgro/MR3001_Design_and_Development_of_Robots_II/blob/main/Misc/Logos/MCR2_Logo_Black.png">
   <img alt="Shows MCR2 logo in black or white." width="150" align="right">
 </picture>
 
@@ -30,13 +30,12 @@
 
    
 ## General Information
-* MCR2 Person in Charge: Dr Alexandru Stancu and Dr Mario Martinez
-* Tecnológico de Monterrey Person in Charge: Dr.  Consuelo Rodríguez Padilla and Dr. Carlos Vazquez
+* Professor: Dr Mario Martinez
 * Duration: 5 Weeks
 *	Student counselling: Via appointment.
-*	Classes: 5 sessions, 1 group.
-    *	Group 1: Wednesday 3-6 PM (Central Mexico Time)
-* Start Date: Monday, 1 April 2023
+*	Classes: 10 sessions, 2 groups.
+    *	Group 1: Mon-Thu 12-3 PM (Central Mexico Time)
+* Start Date: Monday, 23 March 2026
 
 
 ## General Requirements
